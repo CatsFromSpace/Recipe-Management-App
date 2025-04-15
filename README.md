@@ -53,3 +53,17 @@ A user-friendly recipe management applicationand for recipe organization.The app
 - Custom recipes stored in localStorage under 'customRecipes'
 - Favorite recipes stored in localStorage under 'favoriteRecipes'
 - API recipes fetched from TheMealDB
+
+## How to Run?
+- Open thep project in VS Code
+- Open a terminal: Terminal > New Terminal
+- type 'npm run dev'
+- Navigate to the local host listed in the terminal
+
+## Screenshots
+
+![Screenshot 2025-04-15 094507](https://github.com/user-attachments/assets/e113eb4e-5b73-4052-891c-a75ea6a7051d)
+![Screenshot 2025-04-15 094453](https://github.com/user-attachments/assets/1fa4813e-97ed-4dfd-b9a6-531f1d50815c)
+![Screenshot 2025-04-15 094439](https://github.com/user-attachments/assets/66204c22-c75f-4865-b5bd-ec8a29ec999f)
+![Screenshot 2025-04-15 094406](https://github.com/user-attachments/assets/30878a17-6067-433b-bf7f-398c45226f34)
+
